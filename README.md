@@ -1,7 +1,6 @@
 Projeto de desenvolvimento de um Chatbot utilizando Python.
 # ChatBot Comnect
 
-![GitHub](https://img.shields.io/github/license/Felipe007Guimaraes/Impacta-Health)
 ![Static Badge](https://img.shields.io/badge/language-Python%20v3.11%5E-ffeb2a)
 
 ## Description
