@@ -19,9 +19,9 @@ Chatbot development project using Python. The chat simulates a basic service whe
 - GitHub Actions (CI/CD): Continuous integration and delivery by
   automating code modifications, testing, and streamlined deployment processes.
 
-  ### Use Case
+  ### Chat
   ![image](https://github.com/sullyanoo/ChatBot/blob/main/img/interface.png)
 
-  ### MER
+  ### Produtos
   ![image](https://github.com/sullyanoo/ChatBot/blob/main/img/interface_menu_produtos.png)
 
