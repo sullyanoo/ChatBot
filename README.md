@@ -23,7 +23,7 @@ Chatbot development project using Python. The chat simulates a basic service whe
   automating code modifications, testing, and streamlined deployment processes.
 
   ### Use Case
-  ![image](https://github.com/sullyanoo/ChatBot.git/img/interface.png)
+  ![image](https://github.com/sullyanoo/ChatBot/img/interface.png)
 
   ### MER
   ![image](https://github.com/Impacta-Health/Impacta-Health/assets/90731014/3084e716-c8be-4910-81d0-61c8c46bf585)
