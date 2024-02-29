@@ -1,0 +1,10 @@
+
+        Name: fdsfds
+        Email: fsdfsd
+        CNPJ: 53423
+        Scope: 1
+        SubScope:[1] - Problemas de cadastro de contrato.
+        Sitef: None
+        IPSEC: None
+        Protocolo: b0e3ff5f-9066-4483-9887-011b317e1315
+        
