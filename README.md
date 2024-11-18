@@ -1,5 +1,5 @@
 Projeto de desenvolvimento de um Chatbot utilizando Python.
-# ChatBot Comnect
+# ChatBot
 
 ![Static Badge](https://img.shields.io/badge/language-Python%20v3.11%5E-ffeb2a)
 
